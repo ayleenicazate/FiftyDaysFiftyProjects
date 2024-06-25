@@ -12,8 +12,8 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background: rgb(0,61,108);
-  background: radial-gradient(circle, rgba(0,61,108,1) 0%, rgba(9,13,18,1) 100%);
+  background: rgb(7,4,42);
+  background: radial-gradient(circle, rgba(7,4,42,1) 0%, rgba(9,13,18,1) 94%);
 }
 
 .container {
